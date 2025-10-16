@@ -1,6 +1,6 @@
 # 🌐 Portfolio Website - Wildan Fauzan
 
-Proyek ini merupakan tugas pembuatan landing page sederhana menggunakan **HTML, CSS, dan Bootstrap**.
+Proyek ini merupakan tugas pertama 1 halaman sederhana dan saya membuat landing page portofolio diri saya menggunakan **HTML, CSS, dan Bootstrap**.
 
 ## 📸 Tampilan Halaman
 
